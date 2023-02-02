@@ -1,0 +1,1 @@
+Esse é um projeto simples, para eu poder praticar requisições usando o async e await de uma API fake chamada jsonplaceholder.
